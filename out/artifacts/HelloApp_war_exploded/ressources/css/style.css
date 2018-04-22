@@ -1,0 +1,33 @@
+
+body {
+    background-color: #f5f5f5;
+}
+
+header {
+    margin: 1em 0;
+    padding: 1em;
+    border-radius: 8px;
+    color: #eee;
+}
+
+.container {
+    width: 70vw;
+    margin: auto;
+}
+
+h1 {
+    color: #ffca28;
+}
+
+form {
+    width: 70%;
+}
+
+.material-icons {
+    color:#ffca28 ;
+}
+
+p {
+    width: 70vw;
+    margin: 2em auto;
+}
